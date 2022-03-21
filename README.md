@@ -2,10 +2,18 @@
 
 # Thiago Souza
 
-Tenho 32 anos e estou em transição de carreira, trabalhava com gestão de pessoas coordenando equipes para garantir melhor ambiente e resultados, sempre amei tecnologia, curso Análise e Desenvolvimento de Sistemas e agora é o momento onde me dedico ao máximo para ingressar na área e fazer o que eu gosto.
+• Desenvolvedor de Sistemas
+• Atualmente cursando o ensino superior (Análise e desenvolvimento de sistemas) 
+• Atuo em grandes projetos como full stack, implementando, dando manutenção e atendendo demandas necessárias de acordo com cenário. Sempre buscando melhores práticas e sugerindo melhorias.
+• Inglês básico (Fazendo aulas particulares).
 
-Participo de projetos bootcamps pela plataforma Digital Innovation One, faço cursos extras e pesquisas por conta própria para obter maiores conhecimentos além dos adquiridos na faculdade tendo assim maior proximidade da realidade prática no desenvolvimento full stack.
+Conhecimentos :
+• Linguagens: Java, JavaScript
+• Frameworks: Bootstrap, Spring Boot e Angular 9
+• HTML5 e CSS3
+• Ferramentas de controle de versão: Git
+•PostgreSQL e PL/SQL.
 
-Estou em busca de uma oportunidade de estágio para iniciar minha jornada na área. Qualquer dica sugestão é bem vinda e caso eu possa contribuir com algo é só me contatar, abaixo tem meu linkedin também.
+No meu trabalho não posso utilizar minha conta daqui para atuar e por isso não consigo atualizar de maneira constante.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiago-silva-souza-48462218a/)](https://www.linkedin.com/in/thiago-silva-souza-48462218a/)
